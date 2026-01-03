@@ -1,0 +1,5098 @@
+[
+  {
+    "question": "A Spooling technológia nem igényel háttértárat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "igényel"
+  },
+  {
+    "question": "A Resident Monitor egy hardver komonens",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mikrokernel pl.: a Windows rendszerekre jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "MacOS-re,AIX-ra; Windows:Hybrid"
+  },
+  {
+    "question": "A preemptív ütemezés esetén a kiosztott futási jog nem vehető el",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A windows kernel és user módban is preemtív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A közép távú ütemező nem kapcsolatos a háttértárral",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az FCFS preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "nem preemptív"
+  },
+  {
+    "question": "A Round-Robin nem preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "de"
+  },
+  {
+    "question": "Az SMQ jobban kezeli a kiéheztetést mint az MFQ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "MFQ kezeli jobban"
+  },
+  {
+    "question": "A könnyű súlyú folyamatok szálai osztoznak az erőforrásokon",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A folyamatok változásához csak egy veremtárra van szükség",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az EREW PRAM tekinthető a klasszikus PRAM modellnek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kliens-szerver modellt a vevőoldali port jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT ütemezője a kernel módban, egy darab ütemező modulban található",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A tároló méretét megnövelve a FAT mérete nem arányosan növekszik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az exokernel gyakorlatilag rendszer rutinkönyvtárat jelent",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A monitor programszerkezetben két feltételváltozó és két művelet van",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A biztonsági másolat egy adott állomány dupla(esetleg többszörös) tárolása, az eredeti állománnyal egyező tárhelyen",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Informatikai szempontból a \"random\" a \"sequence\" ellentéte",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy folyamathoz több IOCB is tartozhat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A gyorsító tár gyorsabb, mint az egyik hozzá kapcsolódó, gyorsítandó tár",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A független folyamatok jellemzően aszinkron működésűek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az átlátszóság azt jelenti, hogy egy szolgáltatás igénybevétele független a szolgáltatás fizikai helyétől, illetve a szolgáltatást biztosító hardvertől és szoftvertől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Windows NT ha lehetősége van rá, szálütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az operációs rendszer közvetlenül kommunikál a hardverrel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "BIOS-on vagy UEFI-n keresztül"
+  },
+  {
+    "question": "A Disc Interleaving optimális logikai sáv sorrendet jelent",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "szektor"
+  },
+  {
+    "question": "Az operációs rendszer szintjén egy Windows NT szálat egy ún executive szál blokk (ETHREAD) reprezentál",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A UNIX kernel módban preemptív ütemezést használ, de user módban nem preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "kernelben nem preemptív; userben preemptív"
+  },
+  {
+    "question": "Az egyidejűség esetén a folyamatoknak be kell várniuk egymást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT virtuális tárkezelése lapszervezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NTFS írási folyamata hat lépésből áll",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Indirekt kommunikáció esetén jellemző a portok használata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MAR írni vagy olvasni kívánt memória címét tartalmazza",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A trójai programok képesek \"önálló\" akciókra, a felhasználó közreműködése nélkül is bejuthatnak a rendszerbe",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szabályzás zárt hatásláncú folyamat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Master File Table nem más, mint logikai clusterek sorozata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "rekordok sorozata"
+  },
+  {
+    "question": "A linux különböző verzióira a monolitikus vagy a hibrid kernel jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A deklaratív programozás két fő iránya a logikai és a funkcionális programozás",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UNIX user módban preemptív ütemezést használ, kernel módban viszont nem preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Round-Robin algoritmus túl hosszú időszelet esetén FCFS jellegűvé válik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Indirekt kommunikáció esetén a folyamatok közvetlenül nevezik meg egymást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT ütemezése szál alapú, prioritásvezérelt és preemptív",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A KERNEL réteg egyik alapvető feladata az LPC szolgáltatás megvalósítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "execute réteg feladata"
+  },
+  {
+    "question": "A Second Chance lapcsere nem használ reference bitet",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "használ pasztmek"
+  },
+  {
+    "question": "A vírusok - a férgekkel ellentétben - képesek \"önálló\" akcióra, a felhasználó közreműködése nélkül is tudnak terjedni",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "férgek képesek,vírusok nem"
+  },
+  {
+    "question": "A kölcsönös kizárás a nem megosztható erőforrások esetében nem küszöbölhető ki",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Láncolt lista esetén egy blokk sérülése a tárolt adat elvesztését okozhatja",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az FCFS nem preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Commit az NT memóriafoglalásának első lépése",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "Reserve"
+  },
+  {
+    "question": "Az igény szerinti lapozás nem csak a laphibát megszüntető lapot teszi a RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az intel i7 CPU esetében a Memory Controller területarányosan sok magnyi részt foglal el",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A verem egy szálra jellemző elem",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A ferritgyűrűs tár olvasás művelete összetetteb az írásnál műveletnél",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A LED lézer technológia esetén a lapméret növelése jelentős készülékméret növekedést eredményez",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kritikus szakaszba a belépést csak szoftveres úton engedélyezhetjük",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "hardveresen is"
+  },
+  {
+    "question": "Az NT ütemezője a kernel kódjában szétszórva található",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PCB processzor szintű adatokat is tartalmaz",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NTDLL DLL a user mód legalsó rétege",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy elosztott rendszer minden gépe egyértelműen azonosítható és címezhető",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A LED lézer technológia esetén a lapméret nem eredményez jelentős készülékméret növekedést",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A 'Spooling' technológia háttértárat igényel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A HPFS jellemzője a magic number",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "az UFS jellemzője"
+  },
+  {
+    "question": "A MAR az írni vagy olvasni kívánt memória címét nem tartalmazza",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "há de"
+  },
+  {
+    "question": "Az összes EXT file rendszer használja a naplózást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "csak EXT3 óta"
+  },
+  {
+    "question": "Az SJF algoritmus prioritásos és preemptív",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A monitorok programszerkezetben egy feltételváltozó és 2 művelet van",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Logical Cluster a lemezen található clusterek azonosítására szolgál",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "fájlhoz tartozó clusterek sorszáma; VCN szolgál erre"
+  },
+  {
+    "question": "Az EREW PRAM gyakorlatilag a RAM modellhez hasonló működést produkál",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Hibrid kernel pl: Unixra jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A memória védelme alatt azt értjük, hogy az osztott elérésű memórián kívül se a folyamatok se az operációs rendszer ne legyen képes módosítani egy másik folyamat címtartományába tartozó memóriaterületet",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az előretekintő lapozás becslésen alapul",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "NT alapú rendszerekben minden szál alacsony prioritással kezdi futását",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "normállal"
+  },
+  {
+    "question": "Hálózati operációs rendszerek átlátszóságot biztosítanak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A plug-and-play kezelő a Windows 2000 óta része a rendszernek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A virtuális memória méretének az operatív tár mérete szab határt",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UFS jellemzője a naplózás",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "JFS jellemzője"
+  },
+  {
+    "question": "A RAM jelentése „Véletlen hozzáférésű Memória\"",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "AZ AMD K-6 processzor 64 bites szervezésű",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy HDD jellemzően rendelkezik FirmWare-el",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A POST a FirmWare egyik szolgáltatása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "BIOS-é vagy UEFI-é"
+  },
+  {
+    "question": "A szabályzás nyílt hatásláncú folyamat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A RAM jelentése \"tetszőleges hozzáférésű memória\"",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az Intel Core processzor család 32 bites szervezésű",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "SWAP nem alkalmas a várakozási idő elviselhető szinten tartására",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Láncolt lista esetén külső tördelődés nem lép fel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": "Folytonos terület használatánál lép fel Külső Tördelődés "
+  },
+  {
+    "question": "Mikrokernel pl: a Windows rendszerekre jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A maszkolható megszakítások végrehajtása nem prioritásfüggő",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "IRQ prioritásszintjétől függ"
+  },
+  {
+    "question": "A PCB folyamatvezérlési adatokat nem tartalmaz",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Windows kernel user módban is preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A *dll fájlok a programok igényei szerint töltődnek be a memóriába",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A HRR algoritmus nem használ öregítést",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "nana, használ az"
+  },
+  {
+    "question": "A Szemafor három műveletet használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": "1 feltételváltozó és 3 művelet"
+  },
+  {
+    "question": "Az CRCW PRAM tekinthető a klasszikus PRAM modellnek (-CRCW PRAM: mindent enged párhuzamosan)",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A TestAndSet független a PRAM modell műveleti sorrendjétől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy folyamathoz több PCB is tartozhat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "csak egy"
+  },
+  {
+    "question": "Az UNIX kernel és user módban is preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "kernelben nem preemptív; userben preemptív"
+  },
+  {
+    "question": "A laphiba azt jelenti, hogy a keresett lap nem található a RAM-ban",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A SMQ nem mentes a kiéheztetéstől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szálak közvetlenül, saját igény alapján jutnak erőforrásokhoz",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "folyamatokon keresztül"
+  },
+  {
+    "question": "A készülék kezelő réteg jellemzően használ IRQ-t és DMA-t",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A globális változók szálra jellemző elemek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "folyamatokra"
+  },
+  {
+    "question": "RAM modell esetén a memória rekeszenként címezhető",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Szemafor három változót használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "1 feltetelváltozó és 3 művelet"
+  },
+  {
+    "question": "A HAL réteg a használt CPU típusától függ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A számítógép hálózatok egyik fontos jellemzője az átlátszóság",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "elosztott rendszerek jellemzője"
+  },
+  {
+    "question": "A rövid távú ütemező nem kell, hogy egyfolytában a memóriában legyen",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "a Hosszútávú és a Rövidtávú ütemező a RAM-ban van"
+  },
+  {
+    "question": "A Szemafor egy változót használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RR (Round Robin) preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A mentésnél jellemzően nem cél a keresés biztosítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A JFS jellemzője a naplózás",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az együttműködés főleg a user folyamatokra jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "kernel folyamatokra"
+  },
+  {
+    "question": "A versengés a user folyamatokra jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "RP a RAM sor címzési idejét mutatja meg",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "RAM sortöltődési ideje"
+  },
+  {
+    "question": "Az EEPROM blokkonként is törölhető",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "csak egyben"
+  },
+  {
+    "question": "A ROM csak egyszer írható",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy HDD jellemzően rendelkezik BIOS-sal",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az Intel i3,i5, i7 processzor családok 32 bites szervezésűek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ütemezést kiváltó esemény lehet, amikor a futó folyamat várakozni kényszerül",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A objektumkezelő a kernel réteg egyik komponense",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az FCFS nem primitív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ütemezést kiváltó esemény lehet amikor a futó folyamat várakozni kényszerül",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy folyamathoz egy PCB tartozik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az assembly utasítások számokból állnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "betűkből és számokból"
+  },
+  {
+    "question": "Az LPC a folyamatok közötti kommunikációt biztosítja gyors üzenettovábbítással",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A blokkok szektorokból állnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A mentésnél jellemzően cél a keresés biztosítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Virtual Cluster az egy fájlhoz tartozó clusterek sorszáma",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NTDLL DLL a kernel mód legalsó rétege",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Elosztott fájlrendszer esetén a fájlok állapottere csak uniform lehet",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "uniform és nem uniform lehet"
+  },
+  {
+    "question": "Az utasításszámláló nem szükségszerű eleme egy szálnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "há de"
+  },
+  {
+    "question": "Hibrid kernel pl: az OS X-re jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Szemafor a szinkronizációs problémák univerzális eszköze",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Master File Table nem más, mint a fájl rekordok sorozata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Reserve az NT memóriafoglalásának első lépése",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az igény szerinti lapozás csak a laphibát megszüntető lapot teszi át a RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT alapú rendszerekben egy szálnak az ütemezés során 6 féle állapota lehet",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "7"
+  },
+  {
+    "question": "Az indexelt tárolást takarékos helygazdálkodás jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A hosszú távú ütemező gyorsabb, mint a középtávú ütemező",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MAR írni és olvasni kívánt memória tartalmát tartalmazza",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A HAL réteg feladata többek közt a multiprocesszor ütemezés",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "kernel réteg feladata"
+  },
+  {
+    "question": "A Resident Monitor a memóriát több részre osztva kezeli",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Preemptív ütemezés esetén a kiosztott futási jog elvehető",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Round-Robin algoritmus jellemzője a konvoj hatás",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A SJF algoritmus fő szempontja a hosszú löketidő",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A SMQ mentes a kiéheztetéstől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A nehéz súlyú folyamat képes szálakra bomlani",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A farmer-worker modellt az adóoldali port jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A csoportkommunikációt több adó oldali folyamat jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A \"Spooling\" technológia nem igényel háttértárat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Resident Monitor egy hardver komponens",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RC a sorelőtöltődési időt jelent",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "sorfrissítési időt jelen; RP a sorelőtöltődési idő"
+  },
+  {
+    "question": "Rezidens tárolás esetén az attribútum értékét reprezentáló bináris információ nem közvetlenül az attribútum header után van tárolva a rekordban",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "utána van tárolva"
+  },
+  {
+    "question": "A PAE 32 címbit helyett 48 címbitet használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "36-ot használ"
+  },
+  {
+    "question": "Az NTFS írási folyamata 6 lépésből áll",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A FAT nem más mint egy láncolt lista központi láncelem táblával",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PAE 32 címbit helyett 36-ot használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UNIX user módban preemptív ütemezést használ,kernel módban viszont nem preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Indirekt(közvetett) kommunikáció esetén a folyamatok közvetlenül nevezik meg egymást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "postaládát címeznek"
+  },
+  {
+    "question": "Az NTFS Metadata azoknak az adatoknak a gyűjteménye, amelyek egy fájlrendszer kezeléséhez, illetve a benne tárolt fájlok eléréshez szükségesek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NTDLL.DLL a user mód legalsó rétege",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy CPU-ba épített GPU terület arányosan minimális részt foglal el",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "kurvanagy részt bazdmeg"
+  },
+  {
+    "question": "Hibrid kernel pl. Unixra jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "Windows-ra,Linux-ra,BeOS-re; UNIX: Monolitikus"
+  },
+  {
+    "question": "Az RP az oszlopfrissítési ciklusidőt jelenti",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "RAM sorelőtöltődési idő"
+  },
+  {
+    "question": "A RCD a RAS kívánt késedelmét mutatja meg a CAS-hoz képest",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az RP a sorelőtöltési idő",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az imperatív algoritmus random jellegű",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Windows kernel és user módban is preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A *.dll fájlok a programok igényei szerint töltődnek be a memóriába",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az objektumkezelő a kernel réteg egyik komponense",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "Executive rétegé"
+  },
+  {
+    "question": "Az NTDLL.DLL a kernel mód legalsó rétege",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "user réteg legalsó rétege"
+  },
+  {
+    "question": "Hibrid kernel pl. az OS X-re jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "Windows NT, Linux, BeOS-r"
+  },
+  {
+    "question": "A perifériák működését, viselkedését és használhatóságát négy jellemző határozza meg",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az egy folyamathoz szálak saját címtartományokat használnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Szemafor objektum orientált programszerkezetű",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A tároló méretét növelve a FAT mérete arányosan növekszik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A monitor programszerkezetében egy feltételváltozó és két művelet van",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy folyamathoz csak egy IOCB tartozhat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szorosan együttműködő folyamatok jellemzően szinkron működésűek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A független folyamatok szorosan összehangolt működést igényelnek az adatok megosztása miatt",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szolgáltatások eléréséhez a felhasználónak mindig pontosan ismernie kell a szolgáltatás fizikai helyét és technikai megvalósítását",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Windows NT ha lehetősége van rá, folyamatütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az operációs rendszer közvetetten kommunikál a hardverrel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Disc Interleaving optimális logikai szektor sorrendet jelent",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A UNIX kernel módban és user módban is preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A UNIX user módban preemtív ütemezést használ, kernel módban viszont nem preemtív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A UNIX kernel módban és user módban is nem preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT virtuális memória kezelése szegmenszervezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NTFS írási folyamata több lépésből áll",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": "7"
+  },
+  {
+    "question": "Indirekt kommunikáció esetén jellemző a postaláda használata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A MAR írni vagy olvasni kívánt memória adatait tartalmazza",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az igény szerinti lapozás előre betölti a várhatóan szükséges lapokat a RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az előretekintő lapozás előre betölti a várhatóan szükséges lapokat a RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az előretekintő lapozás csak a laphibát megszüntető lapot teszi át RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A trójai programok a felhasználó közreműködésével férhetnek hozzá a rendszerhez, általában egy látszólag ártalmatlan program formájában",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A férgek képesek \"önálló\" akciókra, a felhasználó közreműködése nélkül is bejuthatnak a rendszerbe",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Master File Table az NTFS fájlrendszerben a fájlok és könyvtárak metaadatait tárolja.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A linux különböző verzióira az exokernel jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az imperatív programozásban a programozó lépésről lépésre határozza meg a végrehajtás módját",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A deklaratív programozásban a programozó lépésről lépésre határozza meg a végrehajtás módját",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Round-Robin ütemező csak akkor függeszti fel az aktuális folyamat futtatását, ha egy új folyamat belép a futásra kész sorba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": "ha új folyamat érkezik"
+  },
+  {
+    "question": "Direkt kommunikáció esetén a folyamatok közvetlenül nevezik meg egymást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Indirekt kommunikáció esetén a folyamatok közvetítő mechanizmusokon keresztül kommunikálnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Direkt kommunikáció esetén a folyamatok közvetítő mechanizmusokon keresztül kommunikálnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT ütemezése folyamat alapú, prioritásvezérelt és preemptív",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A user réteg egyik alapvető feladata az LPC szolgáltatás megvalósítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kölcsönös kizárás a nem megosztható erőforrások esetében is kiküszöbölhető",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Commit az NT memóriafoglalásának második lépése",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Decommit az NT memóriafoglalásának első lépése",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Decommit az NT memóriafoglalásának harmadik lépése",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az előretekintő lapozás nem csak a laphibát megszüntető lapot teszi a RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kritikus szakaszba a belépést hardveres és szoftveres úton is engedélyezhetjük",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NTDLL DLL a user mód legfelső rétege",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy peer-to-peer rendszer minden gépe egyértelműen azonosítható és címezhető",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A peer-to-peer rendszer gépei nem rendelkeznek egyértelmű és fix azonosítóval",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az elosztott rendszer gépei nem rendelkeznek egyértelmű és fix azonosítóval",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az SJF algoritmus prioritásos és nem preemtív",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Monolitikus kernel pl. Unixra jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A memória védelem megengedi, hogy egy folyamat vagy az operációs rendszer módosítsa egy másik folyamat memóriaterületét",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Elosztott rendszerek átlátszóságot biztosítanak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A virtuális memória méretének az operatív tár mérete sem szab határt",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az operatív tár mérete befolyásolja a virtuális memória méretét",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az operatív tár mérete nem befolyásolja a virtuális memória méretét",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Láncolt lista esetén belső tördelődés nem lép fel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Folytonos terület használatánál belső tördelődés nem lép fel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mikrokernel pl.: Minixre jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A *dll fájlok rendszerindításkor töltődnek be a memóriába",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A CRCW PRAM tekinthető klasszikus PRAM modellnek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az SMQ mentes a kiéheztetéstől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az MFQ mentes a kiéheztetéstől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szálak a rendszer ütemezőjén keresztül jutnak erőforrásokhoz",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Archiválásnál jellemzően cél a keresés biztosítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "RAS a RAM sor címzési idejét mutatja meg",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "CAS a RAM oszlop címzési idejét mutatja meg",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Resident Monitor egy szoftverkomponens",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A nem preemptív ütemezés esetén a kiosztott futási jog nem vehető el",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A SJF algoritmus fő szempontja a rövid löketidő",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A középtávú ütemező nem kapcsolatos a háttértárral",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A középtávú ütemező kapcsolatos a háttértárral",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A könnyűsúlyú folyamatok szálai osztoznak az erőforrásokon",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A folyamatok változásához több memóriaelem szükséges",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Nem maszkolható megszakítások azonnal végrehajtódnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": "pl órajel alapú megszakítás"
+  },
+  {
+    "question": "Pointerek segítségével a tárolt adatokat gyorsabban elérhetjük",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT virtuális tárkezelésre 8kB/4MB méretű lapokat használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A monitor programszerkezetben két feltételváltozó és két művelet van.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A mikrokernel az OS X rendszerekre jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A hálózati operációs rendszerek átlátszóságot biztosítanak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az egy folyamathoz tartozó szálak saját címtartományokat használnak",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A többpartíciós memóriaszervezés partíciónként két határregisztert használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Second Chance algoritmus reference bitet használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az indexelt tárolás takarékos helygazdálkodás jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "RAM modell esetég egy időben egy memóriarekeszt több folyamat is használhat.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT ütemezése szál alapú, prioritásvezérelt és preemptív",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A HAL réteg egyik alapvető feladata az LPC szolgáltatás megvalósítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az állományszervező réteg felelős a blokkok leképzéséért.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy folyamathoz több PCB is tartozhat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A KERNEL réteg az egyes objektumok elérésekor nem végez ellenőrzést",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az SRTF algoritmus gyakorlatilag az SJF algoritmus preemptív változata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az ütemezés lehet idő vagy folyamat alapú.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A FCFS nem preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A farmer-worker modellt az adóoldali port jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Monitor programszerkezet szál szintű művelet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Nem rezidens tárolás esetén a header csak az attribútum értékét reprezentáló adatok helye van rögzítve.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A trójai programok képesek \"önálló\" akciókra, a felhasználó közreműködése nélkül is bejutnak a rendszerbe",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Plug-And-Play kezelő a Windows NT 4.0 óta része a rendszernek.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A rövidtávú ütemező nem kell hogy egyfolytában a memóriában legyen.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "PRAM modell esetén egy időben egy memóriarekeszt több folyamat is használhat.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A csapda (Trap) egy végrehajtás alatt lévő szállal kapcsolatos.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT virtuális tárkezelésre 4kB/2MB méretű lapokat használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az SMQ esetén egy folyamat átkerülhet egyik várakozó sorból egy másikba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A non-persistent jelentése a felejtő memória.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy szál indulásakor a reserve jelzi az 1 MB igényt, de a commit fizikailag csak 2 lapot, azaz 2x4kB-ot fog lefoglalni.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Windows NT user modban preemptív ütemezést használ, de kernel modban nem preemptív ütemezést használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Virtual Cluster az egy fájlhoz tartozó clusterek sorszáma.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A vírusok általában file vagy boot szektor szinten fertőznek.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A first fit algoritmus mindig a tár elejéről indul",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A folytonos terület nevű allokációs módszer hátránya a külső tördelődés",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az előidejűség lényege kizárólag az, hogy egyik folyamat megelőzi a másikat.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Hibrid kernel pl. az OS X-re jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Win32 API hívások a megvalósulás helye szerint háromfélék lehetnek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Elosztott fájlrendszer esetén a fájlok állapottere csak nem uniform lehet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ütemezésre csak a multiprogramozás megjelenése után volt szükség.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NFS nem tekinthető fizikai fájlrendszernek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT memóriakezelő szolgáltatásai nem használják a Win32 API-t",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Láncolt lista esetén belső tördelődés nem lép fel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A bankár algoritmusban bármelyik folyamat részt vehet.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A tároló méretét megnövelven a FAT mérete nem arányosan növekszik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A PCB folyamatvezérlési adatokat nem tartalmaz.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT ütemezője a kernel kódjában szétszórva található.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Szemafor egy változót használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT alapú rendszerekben minden folyamathoz tartozik legalább egy szál",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az UFS jellemzője a naplózás",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Master File Table nem más, mint a logikai clusterek sorozata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A HAL réteg a használt CPU típusától függ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Unix kernel és user módban is preemptív ütemezést használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az NT memóriafoglalása mindig két lépésben történik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Szemafor három műveletet használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Batch feldolgozás nem igényli az operátor jelenlétét",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A függőben lévő riasztások a folyamatra jellemző elemek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A Resident Monitor a memóriát több részre osztva kezeli",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A kliens-szerver modellt vevőoldali port jellemzi",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "64. Az NT-ben kernel komponensek esetén mindig megengedett a memória lapozása.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "65. A rövid távú ütemező nem kell, hogy egyfolytában a memóriában legyen.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "66. A verem egy szálra jellemző elem.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "67. Mikrokernel pl. a Windows rendszerekre jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "68. A LOGON folyamat felelős az alkalmazások elindításáért.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "69. A FAT nem más, mint egy láncolt lista központi láncelem táblával.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "70. Aszimmetrikus kommunikáció esetén jellemző a portok használata.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "71. Az NFTS-ben az állományok illetve könyvtárak azonosítása egy 32 bites referenciaszámmal történik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "72. Az előretekintő lapozás becslésen alapul.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "73. A vírus egyik legfontosabb tulajdonsága a szaporodás.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "74. A holtpont operációs rendszer szintű probléma.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "75. A számítógép hálózatok egyik fontos jellemzője az átlátszóság.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "76. Az NT virtuális tárkezelése lapszervezést használ.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "77. Egy folyamathoz egy PCB tartozik.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "78. Az FCFS nem preemptív algoritmus.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "79. Az operációs rendszer közvetlenül kommunikál a hardverrel.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "80. Az együttműködés főleg a user folyamatokra jellemző.",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "81. Az NT ütemezője a kernel módban, egy darab ütemező modulban található",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "82. A tároló méretét megnövelve a FAT mérete nem arányosan növekszik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "83. Az exokernel gyakorlatilag rendszer rutinkönyvtárat jelent",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "84. A monitor programszerkezetben két feltételváltozó és két művelet van",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "85. A biztonsági másolat egy adott állomány dupla(esetleg többszörös) tárolása, az eredeti állománnyal egyező tárhelyen",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "86. Informatikai szempontból a \"random\" a \"sequence\" ellentéte",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "87. Egy folyamathoz több IOCB is tartozhat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "88. A gyorsító tár gyorsabb, mint az egyik hozzá kapcsolódó, gyorsítandó tár",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "89. A független folyamatok jellemzően aszinkron működésűek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "90. Az átlátszóság azt jelenti, hogy egy szolgáltatás igénybevétele független a szolgáltatás fizikai helyétől, illetve a szolgáltatást biztosító hardvertől és szoftvertől",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "91. A Windows NT ha lehetősége van rá, szálütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "92. Az operációs rendszer közvetlenül kommunikál a hardverrel",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "93. A Disc Interleaving optimális logikai sáv sorrendet jelent",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "94. Az operációs rendszer szintjén egy Windows NT szálat egy ún executive szál blokk (ETHREAD) reprezentál",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "95. A UNIX kernel módban preemptív ütemezést használ, de user módban nem preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "96. Az egyidejűség esetén a folyamatoknak be kell várniuk egymást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "97. Az NT virtuális tárkezelése lapszervezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "98. Az NTFS írási folyamata hat lépésből áll",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "99. Indirekt kommunikáció esetén jellemző a portok használata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "100. A MAR írni vagy olvasni kívánt memória címét tartalmazza",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "101. Az igény szerinti lapozás csak a laphibát megszüntető lapot teszi át RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "102. Az FCFS preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "103. A trójai programok képesek \"önálló\" akciókra, a felhasználó közreműködése nélkül is bejuthatnak a rendszerbe",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "104. A szabályzás zárt hatásláncú folyamat",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "105. A Master File Table nem más, mint logikai clusterek sorozata",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "106. A linux különböző verzióira a monolitikus vagy a hibrid kernel jellemző",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "107. A deklaratív programozás két fő iránya a logikai és a funkcionális programozás",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "108. Az UNIX user módban preemptív ütemezést használ, kernel módban viszont nem preemptív ütemezést használ",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "109. A Round-Robin algoritmus túl hosszú időszelet esetén FCFS jellegűvé válik",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "110. Indirekt kommunikáció esetén a folyamatok közvetlenül nevezik meg egymást",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "111. Az NT ütemezése szál alapú, prioritásvezérelt és preemptív",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "112. A KERNEL réteg egyik alapvető feladata az LPC szolgáltatás megvalósítása",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "113. A Second Chance lapcsere nem használ reference bitet",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "114. A vírusok - a férgekkel ellentétben - képesek \"önálló\" akcióra, a felhasználó közreműködése nélkül is tudnak terjedni",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "115. A kölcsönös kizárás a nem megosztható erőforrások esetében nem küszöbölhető ki",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "116. Láncolt lista esetén egy blokk sérülése a tárolt adat elvesztését okozhatja",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "117. Az FCFS nem preemptív algoritmus",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "118. A Commit az NT memóriafoglalásának első lépése",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "119. Az igény szerinti lapozás nem csak a laphibát megszüntető lapot teszi a RAM-ba",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "120. Az intel i7 CPU esetében a Memory Controller területarányosan sok magnyi részt foglal el",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "121. A verem egy szálra jellemző elem",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "122. A ferritgyűrűs tár olvasás művelete összetetteb az írásnál műveletnél",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "123. A LED lézer technológia esetén a lapméret növelése jelentős készülékméret növekedést eredményez",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "124. A kritikus szakaszba a belépést csak szoftveres úton engedélyezhetjük",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": false
+      },
+      {
+        "text": "Hamis",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "125. Az NT ütemezője a kernel kódjában szétszórva található",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "126. A PCB processzor szintű adatokat is tartalmaz",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "127. Az NTFS Metadata azoknak az adatoknak a gyűjteménye, amelyek egy fájlrendszer kezeléséhez, illetve a benne tárolt fájlok eléréshez szükségesek",
+    "options": [
+      {
+        "text": "Igaz",
+        "correct": true
+      },
+      {
+        "text": "Hamis",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  }
+]
