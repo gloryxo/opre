@@ -1544,14 +1544,14 @@
     "options": [
       {
         "text": "Igaz",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Hamis",
-        "correct": true
+        "correct": false
       }
     ],
-    "explanation": "kernel folyamatokra"
+    "explanation": ""
   },
   {
     "question": "A versengés a user folyamatokra jellemző",
